@@ -1,0 +1,19 @@
+.btn-default {
+  background: #2874f0;
+  color: #fff;
+  padding: 8px 12px;
+  border: 0;
+  border-radius: 2px;
+  cursor: pointer;
+  margin: 0 2px;
+}
+
+.btn-action {
+  background: #fff;
+  color: #2874f0;
+  padding: 8px 12px;
+  border: 1px solid #2874f0;
+  border-radius: 2px;
+  cursor: pointer;
+  margin: 0 2px;
+}

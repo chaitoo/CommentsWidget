@@ -1,0 +1,15 @@
+.wrapper {
+  padding: 16px;
+  margin: 0 16px;
+}
+
+.mainComment {
+  display: flex;
+  align-items: center;
+}
+
+.textArea {
+  min-width: 40vw;
+  margin-right: 14px;
+  padding: 8px;
+}

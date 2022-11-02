@@ -1,0 +1,21 @@
+.commentText {
+  padding-right: 16px;
+}
+
+.commentTextWrapper {
+  padding-bottom: 12px;
+}
+
+.commentsWrapper {
+  padding-top: 16px;
+}
+
+.replyWrapper {
+  padding: 4px 0;
+}
+
+.dateText {
+  color: gray;
+  font-size: 12px;
+  padding-right: 8px;
+}
